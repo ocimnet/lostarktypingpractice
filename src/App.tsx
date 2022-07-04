@@ -48,7 +48,7 @@ export const App = () => {
         >
           <Toolbar sx={{ gap: 4 }}>
             <Typography variant="h5" noWrap>
-              Lost Ark Typing Practice
+              Sunda Empire
             </Typography>
             <Button
               variant="contained"
