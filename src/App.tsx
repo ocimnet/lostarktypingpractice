@@ -120,7 +120,7 @@ export const App = () => {
                 rel="noreferrer"
                 href="https://www.pixiv.net/en/users/14279898"
               >
-                Gg Amang | 까망베르까망
+                Gg Amang
               </a>
             </Typography>
           </Box>
